@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-.container{
+.holder{
    
     display: flex;
     flex-wrap: wrap;
